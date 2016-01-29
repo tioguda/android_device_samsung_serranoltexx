@@ -10,9 +10,9 @@
     "revision":      "cm-13.0"
   },
   {
-    "repository": "CyanogenMod/android_device_samsung_msm8930-common",
+    "repository": "tioguda/android_device_samsung_msm8930-common",
     "target_path": "device/samsung/msm8930-common",
-    "revision":      "cm-13.0"
+    "revision":      "bliss-6.0"
   },
   {
     "repository": "CyanogenMod/android_device_samsung_serrano-common",
