@@ -5,9 +5,9 @@
     "revision":      "mm6.0"
   },
   {
-    "repository": "BlissRoms-Devices/android_device_samsung_qcom-common",
+    "repository": "tioguda/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision":      "mm6.0"
+    "revision":      "cm-13.0"
   },
   {
     "repository": "tioguda/android_device_samsung_msm8930-common",
@@ -15,12 +15,12 @@
     "revision":      "bliss-6.0"
   },
   {
-    "repository": "CyanogenMod/android_device_samsung_serrano-common",
+    "repository": "tioguda/android_device_samsung_serrano-common",
     "target_path": "device/samsung/serrano-common",
-    "revision":      "cm-13.0"
+    "revision":      "bliss-6.0"
   },
   {
-    "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
+    "repository": "tioguda/android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common",
     "revision":      "cm-13.0"
   },
@@ -37,11 +37,6 @@
   {
     "repository":  "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "revision":      "cm-13.0"
-  },
-  {
-    "repository": "CyanogenMod/android_hardware_qcom_fm",
-    "target_path": "hardware/qcom/fm",
     "revision":      "cm-13.0"
   }
 ]
