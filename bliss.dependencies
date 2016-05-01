@@ -1,8 +1,8 @@
 [
   {
-    "repository": "BlissRoms-Devices/android_device_qcom_common",
+    "repository": "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision":      "mm6.0"
+    "revision":      "cm-13.0"
   },
   {
     "repository": "tioguda/android_device_samsung_qcom-common",
