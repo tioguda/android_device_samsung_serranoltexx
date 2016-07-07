@@ -26,6 +26,10 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := serranolte,serranoltebmc,serranoltektt,serranoltexx
 
+# Default Toolchain
+TARGET_GCC_VERSION_EXP := 4.9-linaro
+TARGET_LEGACY_GCC_VERSION := 4.9-linaro
+
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8930_serrano_eur_lte_defconfig
 
