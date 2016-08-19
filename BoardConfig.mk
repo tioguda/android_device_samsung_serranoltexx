@@ -35,6 +35,9 @@ BOARD_HAVE_NFC := true
 # BLN
 BOARD_HAVE_GENERIC_BLN := true
 
+# Charger
+BOARD_NO_CHARGER_LED := true
+
 # Bliss Configs
 BLISSIFY := true
 BLISS_O3 := true
